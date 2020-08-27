@@ -1,3 +1,17 @@
 npm install bootstrap-vue axios numeral --save
 
 npm i -S @saeris/vue-spinners
+
+…or create a new repository on the command line
+echo "# parte-trabajo-vue" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/Santa-Maria-de-Cayon/parte-trabajo-vue.git
+git push -u origin master
+                
+…or push an existing repository from the command line
+git remote add origin https://github.com/Santa-Maria-de-Cayon/parte-trabajo-vue.git
+git branch -M master
+git push -u origin master
